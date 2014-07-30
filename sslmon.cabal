@@ -19,7 +19,7 @@ cabal-version:       >=1.10
 executable sslmon
   main-is:             Main.hs
   build-depends:
-      base >=4.6 && <4.7
+      base >=4.6 && <4.8
     , configurator ==0.3.0.0
     , tls
   hs-source-dirs:      src
